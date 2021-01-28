@@ -1,4 +1,4 @@
-# store
+# Pokédex 2.0
 
 ## Project setup
 ```
